@@ -66,6 +66,6 @@
   ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)
   ![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
-## 😂 A random joke that'll make you laugh!
+## A joke that'll make you laugh today!
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
