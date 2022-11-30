@@ -7,8 +7,7 @@
 - 💻 Web Development
 - 📱 Mobile App Development
 - 🔨 Performance Optimization
-- 🔎 SEO
-- ⌨️ Code Review/Refactoring
+- 🔎 SEO Optimization
 
 ## Skills
 
