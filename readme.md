@@ -1,6 +1,6 @@
 ![Louis Young - Front-end Software Engineer](./cover.jpg)
 
-![](https://visitor-badge.glitch.me/badge?page_id=louisyoung92)
+[![HitCount](https://views.whatilearened.today/views/github/louisyoung92/louisyoung92.svg)](https://github.com/louisyoung92/louisyoung92)
 
 ## Services
 
