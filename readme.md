@@ -14,11 +14,11 @@ You want more about me? [Click here](https://louisyoung.vercel.app), thanks!
 
 ## Services
 
-  #### 🌐 Web Development
-  #### 📱 Mobile App Development
-  #### 💻Desktop App Development
-  #### 🔨 Performance Optimization
-  #### 🔎 SEO Optimization
+  - #### 🌐 Web Development
+  - #### 📱 Mobile App Development
+  - #### 💻Desktop App Development
+  - #### 🔨 Performance Optimization
+  - #### 🔎 SEO Optimization
 
 ## Skills
 
