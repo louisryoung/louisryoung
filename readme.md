@@ -2,15 +2,23 @@
 
 [![HitCount](https://views.whatilearened.today/views/github/louisyoung92/louisyoung92.svg)](https://github.com/louisyoung92/louisyoung92)
 
-Hey <img src="./wave.gif" width="24px"> there,
-click [here](https://louisyoung.vercel.app) to visit my website
+<img src="./wave.gif" width="24px"> Hi there, I'm Louis.
+
+I am a <strong>JavaScript</strong> expert who loves all JavaScript frameworks and libraries.
+
+I build websites and apps that are <strong>simple</strong>, but beautiful and <strong>performant</strong>.
+
+I value <strong>code quality</strong>.
+
+You want more about me? [Click here](https://louisyoung.vercel.app), thanks!
 
 ## Services
 
-- 💻 Web Development
-- 📱 Mobile App Development
-- 🔨 Performance Optimization
-- 🔎 SEO Optimization
+  - ### 🌐 Web Development
+  - ### 📱 Mobile App Development
+  - ### 💻Desktop App Development
+  - ### 🔨 Performance Optimization
+  - ### 🔎 SEO Optimization
 
 ## Skills
 
