@@ -10,7 +10,7 @@ I build websites and apps that are <strong>simple</strong>, but beautiful and <s
 
 I value <strong>code quality</strong>.
 
-If you want to better know me, [click here](https://louisyoung.vercel.app) thanks!
+[Click here](https://louisyoung.vercel.app), if you want to better know me. Thanks!
 
 ## Services
 
