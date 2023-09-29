@@ -4,7 +4,7 @@
 
 <img src="./wave.gif" width="24px"> Hi there, I'm Louis.
 
-I build websites and mobile apps that are <strong>simple</strong>, yet beautiful and <strong>performant</strong>.
+I build websites and mobile apps that are <strong>simple</strong>, yet <strong>beautiful</strong> and <strong>performant</strong>.
 
 You know, I love Swiss nature, especially the mountains and the lakes. Pretty cool, huh?
 
