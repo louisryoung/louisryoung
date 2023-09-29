@@ -10,15 +10,11 @@ You know, I love Swiss nature, especially the mountains and the lakes. Pretty co
 
 ## Services
 
-  - 🐱‍👤 Cross-platform App Development (Web, Mobile, Desktop with JavaScript)
-
-  - 👧 Detail-oriented UI/UX Development
-
-  - 🏃‍♂️ Performance Optimization
-
-  - 🕵️‍♂️ SEO Optimization
-
-  - 🧔 Server-side engineering (Node.js, Laravel)
+<p style="font-size:15px;"><span style="font-size:20px;">🐱‍👤</span> Cross-platform App Development (Web, Mobile, Desktop with JavaScript)</p>
+<p style="font-size:15px;"><span style="font-size:20px;">👧</span> Detail-oriented UI/UX Development</p>
+<p style="font-size:15px;"><span style="font-size:20px;">🏃‍♂️</span> Performance Optimization</p>
+<p style="font-size:15px;"><span style="font-size:20px;">🕵️‍♂️</span> SEO Optimization</p>
+<p style="font-size:15px;"><span style="font-size:20px;">🧔</span> Server-side engineering (Node.js, Laravel)</p>
 
 ## Skills
 
