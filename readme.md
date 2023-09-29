@@ -6,7 +6,7 @@
 
 I build websites and mobile apps that are <strong>simple</strong>, yet beautiful and <strong>performant</strong>.
 
-You know, I love Swiss nature, especially the mountains and the lakes. Cool, huh?
+You know, I love Swiss nature, especially the mountains and the lakes. Pretty cool, huh?
 
 ## Services
 
@@ -22,7 +22,7 @@ You know, I love Swiss nature, especially the mountains and the lakes. Cool, huh
 
 ## Skills
 
-Just connect with me, you will found out!
+Just connect with me, you will find out!
 
 ## A joke that'll make you laugh today!
 
